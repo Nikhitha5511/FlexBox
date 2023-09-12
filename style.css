@@ -37,7 +37,3 @@ body {
     object-fit: cover;
     border-radius: 10px;
 }
-img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
-}
