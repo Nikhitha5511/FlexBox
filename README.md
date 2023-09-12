@@ -38,6 +38,9 @@ padding: 32px: It adds padding around the content inside the header.
 * gallery img: These styles are applied to all img elements within the gallery.
 * width: 300%: This increases the image width to 300% of its parent container, likely for responsiveness.
 * flex: 0 0 calc(50% - 16px): This defines the flex properties of the images within the flex container. It specifies that the images won't grow or shrink (flex: 0 0), and they should take up half of the container minus 16 pixels, with a 16-pixel gap between them.
+
+  # Hosted Link
+  https://nikhitha5511.github.io/FlexBox/?authuser=0
 * max-width: 400px: It sets a maximum width for the images to prevent them from becoming too large.
 * height: 300px: It sets a fixed height for the images.
 * object-fit: cover;: This ensures that the image covers the entire container and maintains its aspect ratio.
